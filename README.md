@@ -1,6 +1,6 @@
 # TNBC RTK/NRTK Kinase Scoring Pipeline
 
-![Banner](assets/banner.png)
+<img width="886" height="224" alt="image" src="https://github.com/user-attachments/assets/760b3375-6cd5-42e6-b64d-2841c6829f3c" />
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
