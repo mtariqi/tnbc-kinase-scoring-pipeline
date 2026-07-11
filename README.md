@@ -140,4 +140,4 @@ See each script's module docstring for detailed input requirements and a runnabl
 
 ## License
 
-[Choose a license — MIT is common for research code]
+[MIT](LICENSE)
