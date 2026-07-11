@@ -1,0 +1,36 @@
+# Data files -- see data/README.md for provenance. Excluded because:
+#   - TCGA-BRCA raw expression data is ~21GB
+#   - DepMap files require accepting a data use agreement before redistribution
+#   - Intermediate processed files are regenerable from source, not source of truth
+data/raw/
+data/processed/
+*.csv
+*.tsv
+!results/CTS_all_90_kinases.tsv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Logs and scratch files from interactive debugging
+*.log
+run_log.txt
+survival_run.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
