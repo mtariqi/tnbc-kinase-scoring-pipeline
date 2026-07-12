@@ -1,0 +1,22 @@
+[MASTER]
+# Nothing needed here for this project.
+
+[FORMAT]
+max-line-length = 120
+
+[MESSAGES CONTROL]
+disable=
+    missing-function-docstring,
+    missing-class-docstring,
+    too-many-locals,
+    too-many-arguments,
+    too-many-positional-arguments,
+    too-few-public-methods,
+    import-outside-toplevel,
+    broad-exception-caught,
+    unused-argument,
+    consider-using-with,
+    unspecified-encoding,
+    consider-using-sys-exit,
+    redefined-outer-name,
+    invalid-name
