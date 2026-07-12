@@ -1,5 +1,13 @@
 # TNBC RTK/NRTK Kinase Scoring Pipeline
 
+<img width="886" height="224" alt="image" src="https://github.com/user-attachments/assets/760b3375-6cd5-42e6-b64d-2841c6829f3c" />
+
+[![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Kinases Validated](https://img.shields.io/badge/kinases%20validated-90%2F90-brightgreen)](docs/Ranking_Methodology_Report.docx)
+[![Data](https://img.shields.io/badge/data-TCGA%20%7C%20DepMap%20%7C%20STRING%20%7C%20DGIdb-informational)](data/README.md)
+[![Status](https://img.shields.io/badge/status-active-success)]()
+
 A real-data computational pipeline that ranks 90 receptor and non-receptor tyrosine kinases (RTKs/NRTKs) by therapeutic priority in triple-negative breast cancer (TNBC), by combining network topology, CRISPR knockout essentiality, patient survival association, and drug-targeting evidence into a single Composite Target Score (CTS).
 
 Built and fully validated end-to-end — from zero real data files to a complete, bug-tested 90-kinase ranking — in a single working session.
